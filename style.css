@@ -48,7 +48,7 @@
   padding: 0px;
 }
 
-.todo-completed__item, .todo-incomplete__item .todo-title, .edit-mode {
+.todo-completed__item, .todo-incomplete__item, .edit-mode {
   list-style: none;
 }
 
